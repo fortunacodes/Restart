@@ -67,7 +67,6 @@
 				4EEACE5E2A21437100D88820 /* Utilities */,
 				4EEACE5C2A21427D00D88820 /* Sounds */,
 				4EEACE5D2A21435900D88820 /* Views */,
-				4EEACE4C2A21412B00D88820 /* ContentView.swift */,
 				4EEACE502A21412D00D88820 /* Preview Content */,
 			);
 			path = Restart;
@@ -107,6 +106,7 @@
 		4EEACE602A2154AB00D88820 /* Screens */ = {
 			isa = PBXGroup;
 			children = (
+				4EEACE4C2A21412B00D88820 /* ContentView.swift */,
 				4EEACE612A2154C500D88820 /* OnboardingView.swift */,
 				4EEACE632A2154D300D88820 /* HomeView.swift */,
 			);
