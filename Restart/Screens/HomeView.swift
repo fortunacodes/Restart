@@ -44,11 +44,10 @@ struct HomeView: View {
 
             // MARK: - FOOTER
             Spacer()
-            
-            
-            
+                        
             Button {
                 withAnimation {
+                    playSound(sound: "success", type: "m4a")
                     isOnboardingViewActive = true
                 }
             } label: {
